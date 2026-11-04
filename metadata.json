@@ -1,0 +1,6 @@
+{
+  "name": "Kalasalingam University Campus Facility & Maintenance Operations",
+  "description": "Centralized campus facility issue reporting, automated worker SMS dispatch, priority ranking, and real-time status tracking for Kalasalingam Academy of Research and Education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
